@@ -1,0 +1,3 @@
+Last daily retrain: 2026-03-27 22:39:44
+Tickers: AAPL, MSFT, GOOGL, AMZN, NVDA, META, TSLA, LMT, XOM, JPM, JNJ, CAT
+Threshold: 0.6
