@@ -1,6 +1,8 @@
-yfinance
+streamlit
 pandas
 numpy
-scikit-learn
+yfinance
 ta
-streamlit
+scikit-learn
+joblib
+altair==4.2.2
